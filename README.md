@@ -5,7 +5,7 @@ Useful for screenshots, recording and games.
 
 ## How to use
 1. Download `cursor_toggle.exe` from the Releases page.
-2. Run it and press the key you want to use.
+2. Run it and press the key you want to use. (I suggest running as administrator so it works while game is in fullscreen.)
 3. Press that key to hide or show the cursor.
 4. Press Ctrl+Alt+Q to quit.
 
